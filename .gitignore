@@ -1,0 +1,5 @@
+# Ignore Composer's vendor directory
+/vendor/
+
+# Ignore all certificate files
+/certificates/

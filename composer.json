@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pkpass/pkpass": "^2.4"
+    }
+}
